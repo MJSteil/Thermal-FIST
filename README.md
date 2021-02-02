@@ -1,4 +1,4 @@
-![](./logo.png =200x)
+<img src="logo.png" alt="https://www.hiclipart.com/free-transparent-background-png-clipart-iioth" width="200"/>
 
 # Thermal-FIST
 [![Build Status](https://travis-ci.org/vlvovch/Thermal-FIST.svg?branch=master)](https://travis-ci.org/vlvovch/Thermal-FIST)
