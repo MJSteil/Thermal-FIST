@@ -1,4 +1,4 @@
-<img src="logo.png" align="right" />
+![](./logo.png =200x)
 
 # Thermal-FIST
 [![Build Status](https://travis-ci.org/vlvovch/Thermal-FIST.svg?branch=master)](https://travis-ci.org/vlvovch/Thermal-FIST)
